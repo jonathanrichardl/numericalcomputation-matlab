@@ -21,3 +21,6 @@ Algorithms available:
 18. Newton Interpolation
 19. Piecewise Cubic Hermite Interpolation
 20. Polynomial Interpolation
+
+Written by Jonathan Richard
+Department of Electrical Engineering, Universitas Indonesia
